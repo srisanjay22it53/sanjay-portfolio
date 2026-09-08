@@ -372,14 +372,10 @@ a {
 
 section:not(.hero) {
   min-height: 100vh;
-
   padding: 120px 6%;
-
   display: flex;
-
   flex-direction: column;
-
-  justify-content: center;
+  justify-content: flex-start;
 }
 
 .section-heading {
@@ -392,17 +388,14 @@ section:not(.hero) {
   margin-bottom: 70px;
 }
 
-.section-heading::before {
-  content: "";
+.section-heading span {
+  color: #ff1744;
 
-  width: 5px;
-  height: 48px;
+  font-size: 15px;
 
-  background: #ff1744;
+  font-weight: 700;
 
-  border-radius: 2px;
-
-  flex-shrink: 0;
+  letter-spacing: 2px;
 }
 
 .section-heading h2 {
@@ -694,7 +687,6 @@ section:not(.hero) {
 
 .github-link:focus-visible {
   outline: 2px solid #ff1744;
-
   outline-offset: 4px;
 }
 
@@ -1022,6 +1014,7 @@ section:not(.hero) {
 
   .hero-image-container {
     width: 350px;
+
     height: 460px;
   }
 
@@ -1212,10 +1205,8 @@ section:not(.hero) {
     margin-bottom: 50px;
   }
 
-  .section-heading::before {
-    width: 4px;
-
-    height: 38px;
+  .section-heading span {
+    font-size: 13px;
   }
 
   .section-heading h2 {

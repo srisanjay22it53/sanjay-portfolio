@@ -1,15 +1,12 @@
 function About() {
   return (
     <section id="about" className="about-section">
-
       <div className="section-heading">
         <h2>About Me</h2>
       </div>
 
       <div className="about-content">
-
         <div className="about-text">
-
           <h3>
             Building ideas into practical web applications.
           </h3>
@@ -29,15 +26,14 @@ function About() {
             improve and take on new challenges — because I believe
             good development is built on curiosity, consistency and trust.
           </p>
-
         </div>
 
         <div className="about-details">
-
           <div className="detail-card">
             <span>Education</span>
             <strong>B.Tech Information Technology</strong>
             <small>KGiSL Institute of Technology</small>
+            <small>2022 — 2026</small>
           </div>
 
           <div className="detail-card">
@@ -49,11 +45,8 @@ function About() {
             <span>Location</span>
             <strong>Coimbatore, Tamil Nadu</strong>
           </div>
-
         </div>
-
       </div>
-
     </section>
   );
 }
