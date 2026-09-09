@@ -13,7 +13,9 @@ function Projects() {
         "JavaScript"
       ],
       github:
-        "https://github.com/srisanjay22it53/AI-Learning-Path-Generator.git"
+        "https://github.com/srisanjay22it53/AI-Learning-Path-Generator.git",
+      liveDemo:
+        "https://ai-learning-path-generator-6wr9.onrender.com"
     },
 
     {
@@ -67,18 +69,23 @@ function Projects() {
 
     {
       number: "05",
-      title: "Image Gallery",
+      title: "Feedback & Sentiment Analysis System",
       description:
-        "A responsive image gallery project designed to display and organize images with a clean and user-friendly interface.",
+        "A full-stack Flask web application where users can submit feedback with ratings and receive automatic sentiment analysis as Positive, Negative, or Neutral. Feedback is stored in a cloud MySQL-compatible database, with an admin dashboard for feedback and sentiment statistics.",
       technologies: [
+        "Python",
+        "Flask",
+        "Flask-SQLAlchemy",
+        "MySQL / TiDB Cloud",
         "HTML",
         "CSS",
-        "JavaScript"
+        "JavaScript",
+        "TextBlob"
       ],
       github:
-        "https://github.com/srisanjay22it53/image-gallery",
+        "https://github.com/srisanjay22it53/feedback-system",
       liveDemo:
-        "https://image-gallery-five-mu.vercel.app/"
+        "https://feedback-system-theta-eight.vercel.app/"
     },
 
     {
