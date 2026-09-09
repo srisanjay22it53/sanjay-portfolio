@@ -102,6 +102,30 @@ function Projects() {
         "https://github.com/srisanjay22it53/coliseum-badminton",
       liveDemo:
         "https://coliseum-badminton.vercel.app/"
+    },
+
+    {
+      number: "07",
+      title: "AgileFlow – Agile Project Management System",
+      description:
+        "An Agile project management system for managing projects, tasks, team members, priorities, deadlines and task progress.",
+      technologies: [
+        "Java",
+        "Spring Boot",
+        "Thymeleaf",
+        "HTML",
+        "CSS",
+        "MySQL",
+        "Spring Data JPA",
+        "Hibernate",
+        "Maven",
+        "Git",
+        "GitHub"
+      ],
+      github:
+        "https://github.com/srisanjay22it53/agileflow-project-management",
+      liveDemo:
+        "https://agileflow-project-management-xi.vercel.app/"
     }
   ];
 
