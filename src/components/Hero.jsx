@@ -17,7 +17,7 @@ function Hero() {
         </h1>
 
         <h2>
-          Java · Spring Boot · React · MongoDB
+          Java · JavaScript · Spring Boot · MERN
         </h2>
 
         <p className="hero-description">
@@ -44,7 +44,7 @@ function Hero() {
           <a
             href="/resume.pdf"
             target="_blank"
-            rel="noreferrer"
+            rel="noopener noreferrer"
             className="secondary-button"
           >
             Download CV ↓

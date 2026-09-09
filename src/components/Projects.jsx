@@ -121,7 +121,7 @@ function Projects() {
                 <a
                   href={project.github}
                   target="_blank"
-                  rel="noreferrer"
+                  rel="noopener noreferrer"
                   className="github-link"
                 >
                   GitHub ↗
@@ -131,7 +131,7 @@ function Projects() {
                   <a
                     href={project.liveDemo}
                     target="_blank"
-                    rel="noreferrer"
+                    rel="noopener noreferrer"
                     className="github-link"
                   >
                     Live Demo ↗

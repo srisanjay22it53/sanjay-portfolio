@@ -44,7 +44,7 @@ function Contact() {
           <a
             href="https://www.linkedin.com/in/sri-sanjay-s-64b546247"
             target="_blank"
-            rel="noreferrer"
+            rel="noopener noreferrer"
             className="contact-item"
           >
             <span>LinkedIn</span>
@@ -55,7 +55,7 @@ function Contact() {
           <a
             href="https://github.com/srisanjay22it53"
             target="_blank"
-            rel="noreferrer"
+            rel="noopener noreferrer"
             className="contact-item"
           >
             <span>GitHub</span>
