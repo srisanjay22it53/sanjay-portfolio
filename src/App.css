@@ -620,6 +620,8 @@ section:not(.hero).about-section {
   line-height: 1.2;
 
   color: #ffffff;
+
+  text-transform: uppercase;
 }
 
 

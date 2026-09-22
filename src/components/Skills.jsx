@@ -2,10 +2,13 @@ function Skills() {
   const skills = [
     { name: "Java", category: "Programming" },
     { name: "JavaScript", category: "Programming" },
+    { name: "Python", category: "Programming" },
     { name: "Spring Boot", category: "Framework" },
+    { name: "Flask", category: "Framework" },
     { name: "HTML", category: "Web" },
     { name: "CSS", category: "Web" },
     { name: "MongoDB", category: "Database" },
+    { name: "MySQL", category: "Database" },
     { name: "GitHub", category: "Tools" },
     { name: "MERN", category: "Full Stack" }
   ];
