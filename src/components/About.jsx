@@ -20,7 +20,7 @@ function About() {
           </p>
 
           <p>
-            My experience with Java, Spring Boot, JavaScript, React,
+            My experience with Java, Python, Spring Boot, Flask,
             MySQL and MongoDB has helped me work across both frontend
             and backend development. I’m always looking to learn,
             improve and take on new challenges — because I believe
@@ -38,7 +38,7 @@ function About() {
 
           <div className="detail-card">
             <span>CGPA</span>
-            <strong>7.85</strong>
+            <strong>7.92</strong>
           </div>
 
           <div className="detail-card">

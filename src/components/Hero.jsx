@@ -17,7 +17,7 @@ function Hero() {
         </h1>
 
         <h2>
-          Java · JavaScript · Spring Boot · MERN
+          Java · Python · Spring Boot · Flask
         </h2>
 
         <p className="hero-description">
